@@ -38,6 +38,6 @@ There are three classes in `Firefly Graph`:
 LICENSE
 =======
 
-Dynamic Graph is licensed to you under MIT.X11:
+The code which makes up this project is licensed under the MIT/X11 license.
 
 Copyright (c) 2020 Chao (Chase) Xu
